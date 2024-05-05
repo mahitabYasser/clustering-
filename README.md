@@ -1,4 +1,4 @@
-# clustering-
+# Clustering-
 This clustering analysis project offers insights into home energy consumption patterns and provides a framework for optimizing home electronics sales strategies. By understanding the clustering tendencies and assessing clustering quality, businesses can tailor their marketing efforts to target specific groups of homeowners effectively.
 Repository Contents:
 
